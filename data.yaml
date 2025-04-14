@@ -1,0 +1,9 @@
+# data.yaml
+train: dataset/Train/images
+val: dataset/Validation/images
+
+# Number of classes
+nc: 1
+
+# Class names
+names: ['Soccer Ball']
